@@ -81,7 +81,7 @@ gitalk:
   clientSecret: d60448f29b914b4ec9da5ec0f962fdf811f096ae 
   repo: Zhian-Hu-s-personel-website
   owner: AnsirU
-  proxy: 
+  proxy: https://cors-anywhere.herokuapp.com/https://github.com/login/oauth/access_token
 
 # 输入Google Analytics web tracking code
 google_analytics:
